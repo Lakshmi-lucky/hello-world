@@ -1,0 +1,4 @@
+*.txt
+/view.css
+/builds
+!main.txt
